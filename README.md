@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning **AWS, Cloud, Devops**
 - 📫 How to reach me **haydenz.unsw@gmail.com**
 
-<p align="left">
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,terraform,git,githubactions,bash,mysql,postgres,dynamodb,python,cpp,linux,flutter&perline=20)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haydenz578&show_icons=true&locale=en&layout=compact" alt="haydenz578" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haydenz578&show_icons=true&locale=en&layout=compact" alt="haydenz578" />
+</p>
