@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">:ocean: Hi, I'm Hayden</h1>
+<h3 align="center">:mortar_board: an IT graduate from UNSW</h3>
 
-<!--
-**haydenz578/haydenz578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **AWS, Cloud, Devops**
+- 📫 How to reach me **haydenz.unsw@gmail.com**
 
-Here are some ideas to get you started:
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,terraform,git,githubactions,bash,mysql,postgres,dynamodb,python,cpp,linux,flutter&perline=20)](https://skillicons.dev)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haydenz578&show_icons=true&locale=en&layout=compact" alt="haydenz578" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haydenz578&" alt="haydenz578" /></p>
+
