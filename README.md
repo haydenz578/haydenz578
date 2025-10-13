@@ -1,5 +1,5 @@
 <h1 align="center">:ocean: Hi, I'm Hayden</h1>
-<h3 align="center">:mortar_board: an IT graduate from UNSW seeking job opportunites</h3>
+<h3 align="center">:mortar_board: IT graduate from UNSW seeking job opportunites</h3>
 
 - 🌱 I’m currently learning **AWS, Cloud, Devops**
 - 📫 How to reach me **haydenz.unsw@gmail.com**
