@@ -1,7 +1,11 @@
-<h1 align="center">:ocean: Hi, I'm Hayden</h1>
-<h3 align="center">:mortar_board: IT graduate from UNSW seeking job opportunites</h3>
+<h1 align="center">:ocean: Hi, there! I'm Hayden</h1>
 
-- 🌱 I’m currently learning **AWS, Cloud, Devops**
+- 🎩 I'm an IT graduate from UNSW passionate about cloud infrastructure, DevOps, and automation. \
+I love designing and deploying scalable AWS environments using Terraform, Docker and building CI/CD pipelines that make cloud operations seamless. \
+My projects include a 3-tier AWS web application automated with Terraform, a Flask API containerized with Docker and integrated with GitHub Actions, and Giit, a Bash-based Git simulation tool. 
+
+- 🌱 I’m currently learning advanced AWS architecture, security, and observability practices — aiming to grow into a DevOps or Cloud Engineer.
+
 - 📫 How to reach me **haydenz.unsw@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,terraform,git,githubactions,bash,mysql,postgres,dynamodb,python,cpp,linux,flutter&perline=20)](https://skillicons.dev)
