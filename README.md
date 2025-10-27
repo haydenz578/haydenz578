@@ -4,7 +4,7 @@
 I love designing and deploying scalable AWS environments using Terraform, Docker and building CI/CD pipelines that make cloud operations seamless. \
 My projects include a 3-tier AWS web application automated with Terraform, a Flask API containerized with Docker and integrated with GitHub Actions, and Giit, a Bash-based Git simulation tool. 
 
-- 🌱 I’m currently learning advanced AWS architecture, security, and observability practices — aiming to grow into a DevOps or Cloud Engineer.
+- 🌱 I’m currently learning advanced AWS architecture, security, and observability practices.
 
 - 📫 How to reach me **haydenz.unsw@gmail.com**
 
